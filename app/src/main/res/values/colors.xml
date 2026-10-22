@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Theme Colors -->
+    <color name="purple_primary">#3F1E78</color>
+    <color name="purple_primary_dark">#281154</color>
+    <color name="indigo_accent">#5C50D6</color>
+    <color name="purple_light">#7E67F3</color>
+
+    <!-- UI Colors -->
+    <color name="background_light">#F8F9FA</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="text_primary">#1D1B20</color>
+    <color name="text_secondary">#49454F</color>
+    <color name="text_hint">#908BA0</color>
+
+    <!-- Status & Accent Colors -->
+    <color name="status_delivered">#2E7D32</color>
+    <color name="status_pending">#E65100</color>
+    <color name="status_cancelled">#C62828</color>
+    <color name="color_delete">#D32F2F</color>
+    <color name="divider_color">#E0E0E0</color>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tv_item_id"
+        android:layout_width="36dp"
+        android:layout_height="wrap_content"
+        android:text="1"
+        android:textColor="@color/text_primary" />
+
+    <TextView
+        android:id="@+id/tv_item_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.2"
+        android:text="Domino's"
+        android:textColor="@color/text_primary" />
+
+    <TextView
+        android:id="@+id/tv_item_cuisine"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Italian"
+        android:textColor="@color/text_secondary" />
+
+    <TextView
+        android:id="@+id/tv_item_location"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Bandra West"
+        android:textColor="@color/text_secondary" />
+
+</LinearLayout>
